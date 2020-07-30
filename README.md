@@ -25,3 +25,7 @@ I can see a a total price for my selecetd seats
 As a customer <br>
 So I can change where I sit <br>
 I can deselect a selected seat
+
+## Screenshots
+
+![Alt text](/Images/Homepage.png?raw=true 'Home Page')
