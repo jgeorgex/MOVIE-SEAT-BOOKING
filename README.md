@@ -26,6 +26,14 @@ As a customer <br>
 So I can change where I sit <br>
 I can deselect a selected seat
 
+## User Guide
+
+Download or clone the repository <br>
+Run the index.html file to see the home screen (see screenshot below) <br>
+To select a movie use the drop down box. <br>
+To select a seat select any of the dark blue icons. They will turn light blue to indicate you have selcted them. <br>
+White icons are unavaliable seats.
+
 ## Screenshots
 
 ![Alt text](/Images/Homepage.png?raw=true 'Home Page')
